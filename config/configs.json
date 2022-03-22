@@ -1,0 +1,44 @@
+{
+  "fileTypes": {
+    "images": [
+      "jpg",
+      "png",
+      "tiff",
+      "bmp",
+      "gif",
+      "svg",
+      "jpeg"
+    ],
+    "documents": [
+      "docx",
+      "doc",
+      "pdf",
+      "odt",
+      "rtf",
+      "djvu"
+    ],
+    "archives": [
+      "zip",
+      "7z"
+    ],
+    "music": [
+      "mp3",
+      "aac"
+    ],
+    "videos": [
+      "mp4",
+      "webp"
+    ]
+  },
+  "autoCleanUpInterval": {
+    "minutes": "30",
+    "hours": null,
+    "daysOfWeek": null
+  },
+  "cleanUpDirectories": [
+    "Documents",
+    "Downloads",
+    "Music",
+    "Videos"
+  ]
+}
